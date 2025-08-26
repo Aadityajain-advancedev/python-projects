@@ -50,4 +50,4 @@ elif user_choice==computer_choice:
     print("it's draw")
 
 
-# bug= any other input led to error
+
